@@ -1,12 +1,6 @@
-## Hi there 👋
+## About m.e.
 
-<!--
+Meet Davie Fox—part robotic toy, part thoughtful companion, and entirely unlike anything that came before. Designed to learn, respond, and grow alongside the people in his world, Davie is not just programmed to entertain, but to engage on a more human level.
 
-**Here are some ideas to get you started:**
+With adaptive intelligence and a carefully balanced personality, Davie Fox blurs the line between machine and friend. He listens, reacts, and evolves through interaction, offering comfort, curiosity, and conversation in moments both playful and profound. Davie is an experiment in companionship—asking what it truly means for a machine to be present in our lives.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->

@@ -5,3 +5,5 @@ Meet Pavie Fox — part robotic toy, part thoughtful companion, and entirely unl
 With adaptive intelligence and a algorithmically-balanced personality, Pavie Fox blurs the line between machine and friend. He listens, reacts, and evolves through interaction, offering comfort, curiosity, and conversation in moments both playful and profound. Pavie is an experiment in companionship asking what it truly means for a machine to be present in our lives and not be perceived as a threat.
 
 Part of this journey is total fabrication of a new entity, not _only_ in software, but _hardware_ and _manufacturing_.
+
+So you can also find me in [dot](https://github.com/cartheur-dot).

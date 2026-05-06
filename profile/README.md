@@ -1,4 +1,4 @@
-## About m.e.
+## _characterization is the foundation of the creation myth_
 
 Meet Pavie Fox — part robotic toy, part thoughtful companion, and entirely unlike anything coming before as they are only copies of earlier design paradigms. Designed to learn, respond, and grow alongside the people in his world, Pavie is not just programmed to entertain, but to engage on a more human level.
 
